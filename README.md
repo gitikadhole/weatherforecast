@@ -1,5 +1,5 @@
-Weather Forecast
+<h2>Weather Forecast</h2>
 
-Weather Forecast Application
-Programming Language:Python
-Technologies used:Tkinter,OpenWeatherMap API
+Weather Forecast Application<br>
+Programming Language:Python<br>
+Technologies used:Tkinter,OpenWeatherMap API<br>
